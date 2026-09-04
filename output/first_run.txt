@@ -1,0 +1,12 @@
+=== Travel Agent (offline replay) ===
+
+=== First Response ===
+I can build the itinerary, but "food and culture" could mean a few different things.
+
+Which direction do you want?
+
+1. Traditional food + historic/cultural sites
+2. Modern food scene + museums/architecture
+3. A balanced mix of both
+
+Pick one and I’ll build the 3-day plan around it.
